@@ -1,0 +1,6 @@
+{
+  "name": "Velox Automotive",
+  "description": "Premium, highly interactive luxury automobile website for Velox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
